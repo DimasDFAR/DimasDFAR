@@ -1,4 +1,12 @@
-## Hi there 👋
+<h2 align=center> Hey there folks </h2>
+
+<p align=center>I go by the name of "Dimsum" and I love to tinker around.</p>
+<p align=center>I'm usually online on discord so you can find me there! (@dimasdfar)</p>
+
+
+<h2 align=center> What you should know! </h2>
+- Im currently working on a game (cant tell about it yet)
+
 
 <!--
 **DimasDFAR/DimasDFAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
