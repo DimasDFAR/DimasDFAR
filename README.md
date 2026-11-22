@@ -3,9 +3,13 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=DimasDFAR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/DimasDFAR/DimasDFAR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=DimasDFAR&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/DimasDFAR/DimasDFAR/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="center">Here are my socials...</h2>
 
 ###
 
@@ -25,20 +29,24 @@
 
 ###
 
+<h2 data-importer="text" align="center">And these are what I am proficient at...</h2>
+
+###
+
 <br clear="both">
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
+  <img width="16" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
   <img width="16" />
@@ -53,11 +61,19 @@
 
 ###
 
+<h2 data-importer="text" align="left"></h2>
+
+###
+
 <br clear="both">
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWc0N2o3dG96NWd5dWd2Z2R0d3J6YXFrdzU3YzQxMGthYzJ3enV3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVprDdfghWkWLItSKA/giphy.gif"  />
 </div>
+
+###
+
+<h2 data-importer="text" align="center">Pacman Contributions</h2>
 
 ###
 
