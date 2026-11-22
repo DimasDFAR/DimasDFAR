@@ -16,6 +16,8 @@
 
 ###
 
+<br clear="both">
+
 <img data-importer="image" align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWc0N2o3dG96NWd5dWd2Z2R0d3J6YXFrdzU3YzQxMGthYzJ3enV3eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SVprDdfghWkWLItSKA/giphy.gif"  />
 
 ###
